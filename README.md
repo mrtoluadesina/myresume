@@ -19,13 +19,13 @@ Education
 Decagon Institute, Lekki, Lagos State.
 
 #### Computer Science, Bachelor of Science - (_Sept 2009 – July 2013_)
-Redeemers University, Mowe, Ogun State.\
+Redeemers University, Mowe, Ogun State.
 
 
-> ### You can ~~never~~ do it\
+ > ### You can ~~never~~ do it
 
 
-Experience
+ Experience
 ----------
 #### Frontend Engineer / Project Manager
 ##### Rewrite Interaction Agency (_Nov 2018 - Now_)
@@ -36,25 +36,25 @@ I manage the entire work flow of the team and as a team member do the following;
 * Writing markup for web projects (HTML) 
 * Styling web projects and making styles uniform (CSS) 
 * UI & UX Design. 
-* Writing the frontend logic using JavaScript and the library jQuery.\
+* Writing the frontend logic using JavaScript and the library jQuery.
 
 
-#### UX Designer / Product Manager
+ #### UX Designer / Product Manager
 ##### Rewrite Interaction Agency (_Apr 2017 – Dec 2018_)
 Lagos, Nigeria.  
 
-My job is to make sure all products we work on are of industry standards, I take feedback, translate them into data development teams can work with and then we iterate and put the product out again for testing. My everyday job is to make sure products we build solve a problem and can shape-shift as needed.\
+My job is to make sure all products we work on are of industry standards, I take feedback, translate them into data development teams can work with and then we iterate and put the product out again for testing. My everyday job is to make sure products we build solve a problem and can shape-shift as needed.
 
 
-#### UX Designer / Business Development Manager
+ #### UX Designer / Business Development Manager
 ##### Woworx Limited (_Feb 2016 – Mar 2017_)
 Lagos, Nigeria.  
 
 * Develop Interface designs using Photoshop and Illustrator. 
-* Convert the design into HTML and CSS and Javascript when necessary\ 
+* Convert the design into HTML and CSS and Javascript when necessary
 
 
-#### Frontend Developer
+ #### Frontend Developer
 ##### Jeman Consulting  (_Aug 2015 - Jan 2016_)
 Lagos, Nigeria.  
 
