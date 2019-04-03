@@ -21,6 +21,44 @@ Decagon Institute, Lekki, Lagos State.
 #### Computer Science, Bachelor of Science - (_Sept 2009 – July 2013_)
 Redeemers University, Mowe, Ogun State.
 
+Experience
+----------
+#### Frontend Engineer / Project Manager
+##### Rewrite Interaction Agency (_Nov 2018  Till date_)
+Lagos, Nigeria.  
+
+I manage the entire work flow of the team and as a team member do the following; 
+* Web application design, implementation and management. 
+* Writing markup for web projects (HTML) 
+* Styling web projects and making styles uniform (CSS) 
+* UI & UX Design. 
+* Writing the frontend logic using JavaScript and the library jQuery.
+
+#### UX Designer / Product Manager
+##### Rewrite Interaction Agency (_Apr 2017 – Dec 2018_)
+Lagos, Nigeria.  
+
+My job is to make sure all products we work on are of industry standards, I take feedback, translate them into data development teams can work with and then we iterate and put the product out again for testing. My everyday job is to make sure products we build solve a problem and can shape-shift as needed.
+
+#### UX Designer / Business Development Manager
+##### Woworx Limited (_Feb 2016 – Mar 2017_)
+Lagos, Nigeria.  
+
+* Develop Interface designs using Photoshop and Illustrator. 
+* Convert the design into HTML and CSS and Javascript when necessary 
+
+
+#### Frontend Developer
+##### Jeman Consulting  (_Aug 2015 - Jan 2016_)
+Lagos, Nigeria.  
+
+* Develop the Frontend codes for projects worked on; 
+* Develop Progressive Web Apps for clients.
+* Build beautiful and functional user interfaces while considering how end-users will use the product. 
+* Managing business development and day to day running of Rewrite, a Creative agency.
+
+
+
 
 
 [myemail]: mailto:tadesina90@gmail.com
