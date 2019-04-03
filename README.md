@@ -1,10 +1,5 @@
-## <div style="position: absolute; top: 0; right: 0"> **Tolu Adesina**  </div>
-### <div style="position: absolute; top: 25px; right: 0">15, Ayo Ajilore street,  </div>
-### <div style="position: absolute; top: 50px; right: 0">Papa-Idimu, Idimu,  </div>
-### <div style="position: absolute; top: 75px; right: 0">Lagos, Nigeria.</div>
-### <div style="position: absolute; top: 100px; right: 0">[email][myemail] </div> 
-
 ![me][myavatar]
+## Tolu Adesina  
 
 -----------------------
 15, Ayo Ajilore street,  
@@ -13,10 +8,13 @@ Lagos, Nigeria.
 [email][myemail]  
 ------------------------
 
+<br>
+
 Bio
 ---
 I am a software engineer in training, always learning new things. building this online resume on github to better my markdown skills. I have strong technical skills as well as excellent interpersonal skills. I am eager to learn and alwats ready to be challenged in order to grow and improve my engineering and all round product development skills. As a self-motivated individual with good communication skills and leadership qualities, I have the ability to motivate my team members and help them bring out their best.    
 
+<br>
 
 Education
 ---------
@@ -26,9 +24,11 @@ Decagon Institute, Lekki, Lagos State.
 #### Computer Science, Bachelor of Science - (_Sept 2009 – July 2013_)
 Redeemers University, Mowe, Ogun State.
 
+<br>
 
 > ### You can ~~never~~ do it
 
+<br>
 
 Experience
 ----------
@@ -43,6 +43,7 @@ I manage the entire work flow of the team and as a team member do the following;
 * UI & UX Design. 
 * Writing the frontend logic using JavaScript and the library jQuery.
 
+<br>
 
 #### UX Designer / Product Manager
 ##### Rewrite Interaction Agency (_Apr 2017 – Dec 2018_)
@@ -50,6 +51,7 @@ Lagos, Nigeria.
 
 My job is to make sure all products we work on are of industry standards, I take feedback, translate them into data development teams can work with and then we iterate and put the product out again for testing. My everyday job is to make sure products we build solve a problem and can shape-shift as needed.
 
+<br>
 
 #### UX Designer / Business Development Manager
 ##### Woworx Limited (_Feb 2016 – Mar 2017_)
@@ -58,6 +60,7 @@ Lagos, Nigeria.
 * Develop Interface designs using Photoshop and Illustrator. 
 * Convert the design into HTML and CSS and Javascript when necessary
 
+<br>
 
 #### Frontend Developer
 ##### Jeman Consulting  (_Aug 2015 - Jan 2016_)
@@ -66,11 +69,11 @@ Lagos, Nigeria.
 * Collected user interface designs from the designers and translated them to webpages for the backend developers to work with. 
 * Managing the communications between clients and developers for Jeman Consulting.  
 
-
+<br>
 
 > _He who lays his hand on the plough and looks back is not fit for the kingdom._
 
-
+<br>
  
 
 
