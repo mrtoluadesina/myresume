@@ -14,5 +14,10 @@ I am a software engineer in training, always learning new things. building this 
 
 Education
 ---------
+### Software Engineering                                                     ##### Dec 2018 – Sept 2019
+Decagon Institute, Lekki, Lagos State.
+
+### Computer Science, Bachelor of Science (B.sc Hons)                        ##### Sept 2009 – July 2013
+Redeemers University, Mowe, Ogun State.
 
 
