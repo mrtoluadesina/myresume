@@ -1,5 +1,5 @@
 ## Tolu Adesina  
-
+![me][myavatar]
 -----------------------
 15, Ayo Ajilore street,  
 Papa-Idimu, Idimu,  
@@ -22,4 +22,5 @@ Redeemers University, Mowe, Ogun State.
 
 
 
-[myemail]: tadesina90@gmail.com
+[myemail]: mailto:tadesina90@gmail.com
+[myavatar]: https://avatars1.githubusercontent.com/u/16652265?s=460&v=4
