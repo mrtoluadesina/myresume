@@ -24,7 +24,7 @@ Redeemers University, Mowe, Ogun State.
 Experience
 ----------
 #### Frontend Engineer / Project Manager
-##### Rewrite Interaction Agency (_Nov 2018  Till date_)
+##### Rewrite Interaction Agency (_Nov 2018 - Now_)
 Lagos, Nigeria.  
 
 I manage the entire work flow of the team and as a team member do the following; 
