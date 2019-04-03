@@ -15,6 +15,19 @@ I am a software engineer in training, always learning new things. building this 
 
 <br>
 
+Skills
+---
+```
+* HTML
+* CSS
+* JAVASCRIPT
+* jQuery
+* GIT
+* TDD
+``` 
+
+<br>
+
 Education
 ---------
 #### Software Engineering - (_Dec 2018 – Sept 2019_)
