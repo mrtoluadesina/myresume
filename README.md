@@ -4,4 +4,6 @@
 15, Ayo Ajilore street,  
 Papa-Idimu, Idimu,  
 Lagos, Nigeria.  
+{: style="text-align: right"}
 ------------------------
+
