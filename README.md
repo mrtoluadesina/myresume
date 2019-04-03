@@ -1,5 +1,5 @@
 ## Tolu Adesina  
-![me][myavatar]
+![me][myavatar] =250x
 -----------------------
 15, Ayo Ajilore street,  
 Papa-Idimu, Idimu,  
