@@ -52,10 +52,11 @@ Lagos, Nigeria.
 ##### Jeman Consulting  (_Aug 2015 - Jan 2016_)
 Lagos, Nigeria.  
 
-* Develop the Frontend codes for projects worked on; 
-* Develop Progressive Web Apps for clients.
-* Build beautiful and functional user interfaces while considering how end-users will use the product. 
-* Managing business development and day to day running of Rewrite, a Creative agency.
+* Collected user interface designs from the designers and translated them to webpages for the backend developers to work with. 
+* Managing the communications between clients and developers for Jeman Consulting.
+
+
+> _He who lays his hand on the plough and looks back is not fit for the kingdom._
 
 
 
