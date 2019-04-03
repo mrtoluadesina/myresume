@@ -1,5 +1,6 @@
 ## Tolu Adesina  
-![me](https://avatars1.githubusercontent.com/u/16652265?s=460&v=4 =250x)
+![me](./myprofile.jpg)
+
 -----------------------
 15, Ayo Ajilore street,  
 Papa-Idimu, Idimu,  
