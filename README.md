@@ -4,7 +4,7 @@
 15, Ayo Ajilore street,  
 Papa-Idimu, Idimu,  
 Lagos, Nigeria.  
-[email](tadesina90@gmail.com)  
+[email][myemail]  
 ------------------------
 
 Bio
@@ -21,3 +21,5 @@ Decagon Institute, Lekki, Lagos State.
 Redeemers University, Mowe, Ogun State.
 
 
+
+[myemail]: tadesina90@gmail.com
