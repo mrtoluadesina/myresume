@@ -1,4 +1,9 @@
-## Tolu Adesina  
+## <div style="text-align: right; position: absolute; top: 0; right: 0"> **Tolu Adesina**  </div>
+### <div style="text-align: right; position: absolute; top: 25px; right: 0">15, Ayo Ajilore street,  </div>
+### <div style="text-align: right; position: absolute; top: 50px; right: 0">Papa-Idimu, Idimu,  </div>
+### <div style="text-align: right; position: absolute; top: 75px; right: 0">Lagos, Nigeria.</div>
+### <div style="text-align: right; position: absolute; top: 100px; right: 0">[email][myemail] </div> 
+
 ![me][myavatar]
 
 -----------------------
@@ -22,10 +27,10 @@ Decagon Institute, Lekki, Lagos State.
 Redeemers University, Mowe, Ogun State.
 
 
- > ### You can ~~never~~ do it
+> ### You can ~~never~~ do it
 
 
- Experience
+Experience
 ----------
 #### Frontend Engineer / Project Manager
 ##### Rewrite Interaction Agency (_Nov 2018 - Now_)
@@ -39,14 +44,14 @@ I manage the entire work flow of the team and as a team member do the following;
 * Writing the frontend logic using JavaScript and the library jQuery.
 
 
- #### UX Designer / Product Manager
+#### UX Designer / Product Manager
 ##### Rewrite Interaction Agency (_Apr 2017 – Dec 2018_)
 Lagos, Nigeria.  
 
 My job is to make sure all products we work on are of industry standards, I take feedback, translate them into data development teams can work with and then we iterate and put the product out again for testing. My everyday job is to make sure products we build solve a problem and can shape-shift as needed.
 
 
- #### UX Designer / Business Development Manager
+#### UX Designer / Business Development Manager
 ##### Woworx Limited (_Feb 2016 – Mar 2017_)
 Lagos, Nigeria.  
 
@@ -54,7 +59,7 @@ Lagos, Nigeria.
 * Convert the design into HTML and CSS and Javascript when necessary
 
 
- #### Frontend Developer
+#### Frontend Developer
 ##### Jeman Consulting  (_Aug 2015 - Jan 2016_)
 Lagos, Nigeria.  
 
