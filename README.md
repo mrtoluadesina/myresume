@@ -1,5 +1,5 @@
 ## Tolu Adesina  
-![me](./myprofile.jpg)
+![me][myavatar]
 
 -----------------------
 15, Ayo Ajilore street,  
@@ -18,10 +18,10 @@ Education
 #### Software Engineering - (_Dec 2018 – Sept 2019_)
 Decagon Institute, Lekki, Lagos State.
 
-#### Computer Science, Bachelor of Science (B.sc Hons) - (_Sept 2009 – July 2013_)
+#### Computer Science, Bachelor of Science - (_Sept 2009 – July 2013_)
 Redeemers University, Mowe, Ogun State.
 
 
 
 [myemail]: mailto:tadesina90@gmail.com
-[myavatar]: https://avatars1.githubusercontent.com/u/16652265?s=460&v=4
+[myavatar]: https://media.licdn.com/dms/image/C5103AQFCAouRudPGBA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=jWyKnpJOMDAkyjzHsuXqO0GGZCM__gSqseu-rCmw9ak
